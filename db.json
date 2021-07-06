@@ -1,0 +1,75 @@
+{
+obLocations:[
+{
+"foodbuy_onboardinglocationid": "1e8e3250-0f71-eb11-a812-002248046aa0",
+"obrNo": "OBR-1000187",
+"oblNumber": "OBL-001015",
+"obLocationStatus": null,
+"obRequestStatus": null,
+"dcn": null,
+"cus": null,
+"location": {
+"locationName": "team 1.1",
+"address": "AL",
+"city": null,
+"state": "AL",
+"zipCode": null,
+"locationContact1": null,
+"locationContact2": null
+},
+"supplierComments": null,
+"oneSourceCustomer": false,
+"oneSourceLogin": null,
+"invoicingType": null,
+"roomBedTable_Count": null,
+"isNeworExistingDCN": false,
+"transitionedtoFoodbuyProgram": null,
+"jdE_HotelNumber": null,
+"effectiveDate": null,
+"estimatedWeeklyPurchases": null,
+"currentDistributorProvidingService": null,
+"ssoCredentials": null,
+"missingorWrongInfo": null,
+"declineReason": null,
+"overrideBilltoAccountNumber": null,
+"distributorName": null,
+"referenceNumber": null
+},
+{
+"foodbuy_onboardinglocationid": "8065724f-0f71-eb11-a812-0022480463a0",
+"obrNo": "OBR-1000187",
+"oblNumber": "OBL-001016",
+"obLocationStatus": null,
+"obRequestStatus": null,
+"dcn": null,
+"cus": null,
+"location": {
+"locationName": "test 1212",
+"address": "AL",
+"city": null,
+"state": "AL",
+"zipCode": null,
+"locationContact1": null,
+"locationContact2": null
+},
+"supplierComments": null,
+"oneSourceCustomer": false,
+"oneSourceLogin": null,
+"invoicingType": null,
+"roomBedTable_Count": null,
+"isNeworExistingDCN": false,
+"transitionedtoFoodbuyProgram": null,
+"jdE_HotelNumber": null,
+"effectiveDate": null,
+"estimatedWeeklyPurchases": null,
+"currentDistributorProvidingService": null,
+"ssoCredentials": null,
+"missingorWrongInfo": null,
+"declineReason": null,
+"overrideBilltoAccountNumber": null,
+"distributorName": null,
+"referenceNumber": null
+}
+]
+
+}
