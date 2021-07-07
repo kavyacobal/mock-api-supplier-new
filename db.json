@@ -39,8 +39,8 @@
 "foodbuy_onboardinglocationid": "8065724f-0f71-eb11-a812-0022480463a0",
 "obrNo": "OBR-1000187",
 "oblNumber": "OBL-001016",
-"obLocationStatus": null,
-"obRequestStatus": null,
+"obLocationStatus": "Completed",
+"obRequestStatus": "Completed",
 "dcn": null,
 "cus": null,
 "location": {
@@ -82,7 +82,18 @@
    "gpoName":"GPO","phone":"34543534","ext":"1234","classofTradeDesignation":"",
    "classofTradeDescription":"","supplierComments":"SupplierComment","declineReason":"",
    "existingAccountNo":null,"requestType":"pending","modifiedTimestamp":null,"nearingSLA":false,
-   "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null},
+   "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null,"requestQuote":true},
+  {"obrUniqueId":"0c9ed494-3c86-eb11-a812-0020009de2b",
+   "accountNo":"3245",
+   "businessName":"Spring tree",
+   "supplier":"LLC broadline",
+   "dcnNo":null,"obRequestStatus":"Completed",
+   "createdDate":"3/16/2021 9:47:19 AM",
+   "obrNumber":"OFBR-001108","parentCompany":"VIrtusa Testing QA 664",
+   "gpoName":"GPO","phone":"34543534","ext":"1234","classofTradeDesignation":"",
+   "classofTradeDescription":"","supplierComments":"SupplierComment","declineReason":"",
+   "existingAccountNo":null,"requestType":"pending","modifiedTimestamp":null,"nearingSLA":false,
+   "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null,"requestQuote":false},
 {"obrUniqueId":"4c9ed494-3c86-eb11-a812-00224809de2b",
    "accountNo":"879879",
    "businessName":"Jean LLC",
@@ -93,6 +104,6 @@
    "gpoName":"GPO","phone":"34543534","ext":"1234","classofTradeDesignation":"",
    "classofTradeDescription":"","supplierComments":"SupplierComment","declineReason":"",
    "existingAccountNo":null,"requestType":"completed","modifiedTimestamp":null,"nearingSLA":false,
-   "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null}]
+   "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null,"requestQuote":true}]
 
 }
