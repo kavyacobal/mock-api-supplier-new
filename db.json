@@ -81,7 +81,7 @@
    "obrNumber":"OFBR-001108","parentCompany":"VIrtusa Testing QA 664",
    "gpoName":"GPO","phone":"34543534","ext":"1234","classofTradeDesignation":"",
    "classofTradeDescription":"","supplierComments":"SupplierComment","declineReason":"",
-   "existingAccountNo":null,"requestType":"Pending","modifiedTimestamp":null,"nearingSLA":false,
+   "existingAccountNo":null,"requestType":"pending","modifiedTimestamp":null,"nearingSLA":false,
    "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null},
 {"obrUniqueId":"4c9ed494-3c86-eb11-a812-00224809de2b",
    "accountNo":"879879",
@@ -92,7 +92,7 @@
    "obrNumber":"OFBR-001109","parentCompany":"VIrtusa Testing QA 664",
    "gpoName":"GPO","phone":"34543534","ext":"1234","classofTradeDesignation":"",
    "classofTradeDescription":"","supplierComments":"SupplierComment","declineReason":"",
-   "existingAccountNo":null,"requestType":"Completed","modifiedTimestamp":null,"nearingSLA":false,
+   "existingAccountNo":null,"requestType":"completed","modifiedTimestamp":null,"nearingSLA":false,
    "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null}]
 
 }
