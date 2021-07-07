@@ -89,7 +89,7 @@
    "supplier":"LLC broadline",
    "dcnNo":null,"obRequestStatus":"Completed",
    "createdDate":"3/16/2021 9:47:19 AM",
-   "obrNumber":"OFBR-001108","parentCompany":"VIrtusa Testing QA 664",
+   "obrNumber":"OFBR-002208","parentCompany":"test",
    "gpoName":"GPO","phone":"34543534","ext":"1234","classofTradeDesignation":"",
    "classofTradeDescription":"","supplierComments":"SupplierComment","declineReason":"",
    "existingAccountNo":null,"requestType":"pending","modifiedTimestamp":null,"nearingSLA":false,
