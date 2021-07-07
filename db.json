@@ -104,6 +104,6 @@
    "gpoName":"GPO","phone":"34543534","ext":"1234","classofTradeDesignation":"",
    "classofTradeDescription":"","supplierComments":"SupplierComment","declineReason":"",
    "existingAccountNo":null,"requestType":"completed","modifiedTimestamp":null,"nearingSLA":false,
-   "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null,"requestQuote":true}]
+   "hasReachedSLA":false,"isAcknowledged":null,"effectiveDate":null,"reasons":null,"requestQuote":false}]
 
 }
