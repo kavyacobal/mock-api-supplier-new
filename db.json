@@ -33,7 +33,9 @@
 "declineReason": null,
 "overrideBilltoAccountNumber": null,
 "distributorName": null,
-"referenceNumber": null
+"referenceNumber": null,
+ "waitingonCustomerReason":"this is the waiting reason",
+ "notes":"Waiting-Added On-7/28/2021 12:45:16 PM</br>Please check Supplier Comment in Notes, added on: 7/28/2021 12:45:16 PM-Added On-7/28/2021 5:38:58 PM"
 },
 {
 "foodbuy_onboardinglocationid": "8065724f-0f71-eb11-a812-0022480463a0",
