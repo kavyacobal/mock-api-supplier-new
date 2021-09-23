@@ -70,7 +70,8 @@
 "declineReason": null,
 "overrideBilltoAccountNumber": null,
 "distributorName": null,
-"referenceNumber": null
+"referenceNumber": null,
+ "notes":"<div><div data-test="foo"><h1>Heading</h1><br>Hello<\n>Hi </div></div>"
 }
 ],
 "offBoarding":[
